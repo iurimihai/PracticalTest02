@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="actions">Actions</string>
+    <string name="time">Time</string>
+    <string name="set">Set</string>
+    <string name="reset">Reset</string>
+    <string name="poll">Poll</string>
 </resources>
