@@ -1,2 +1,1 @@
-# PracticalTest02
-Colocviu EIM
+Meresan Iuri-Mihai, 341C5
